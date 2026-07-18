@@ -12,7 +12,7 @@
             "type": "number",
             "default": 5,
             "label": "重置间隔（分钟）",
-            "description": "必须大于等于1，违规值强制以1分钟执行"
+            "description": "必须大于等于1，违规值强制以5分钟执行"
         },
         "enable_log": {
             "type": "boolean",
